@@ -35,12 +35,18 @@ nav {
 nav a {
     text-decoration: none;
     color: #00ff83;
+    font-weight: bolder;
+}
+
+.lin {
+    text-decoration: none;
+    color: #0072b1;
     font-weight: bold;
 }
 
-li a {
+.git {
     text-decoration: none;
-    color: #0072b1;
+    color: whitesmoke;
     font-weight: bold;
 }
 
